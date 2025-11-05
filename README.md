@@ -102,8 +102,8 @@ Durante a prática, aprendi que:
 ---
 
 ## Referências
-* Documentação oficial AWS EC2
-* AWS Free Tier
-* Guia do Amazon Linux 2
-* PuTTY Download
-* AWS CLI User Guide
+* [Documentação oficial AWS EC2](https://docs.aws.amazon.com/ec2/)
+* [AWS Free Tier](https://aws.amazon.com/pt/free/)
+* [Guia do Amazon Linux 2](https://docs.aws.amazon.com/linux/)
+* [PuTTY Download](https://www.putty.org/)
+* [AWS CLI User Guide](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
